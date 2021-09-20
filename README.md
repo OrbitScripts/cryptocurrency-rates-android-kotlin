@@ -43,4 +43,6 @@ All build scripts are written with the
 # Build
 To build the app, use the `gradlew build` command or use "Import Project" in Android Studio. Android Studio Arctic Fox or newer is required.
 
+# Generate dependency graph
+`gradlew projectDependencyGraph`
 
